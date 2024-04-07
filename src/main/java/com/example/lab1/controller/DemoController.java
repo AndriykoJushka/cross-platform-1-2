@@ -21,6 +21,6 @@ public class DemoController {
                 new Person("Person45678899")));
         model.addAttribute("index", "123");
         model.addAttribute("task10","dashboard.Persona");
-        return "index";
+        return "index";//fh
     }
 }
